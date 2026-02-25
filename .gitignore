@@ -1,0 +1,11 @@
+# Ignore vector database
+chroma_db/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store

@@ -1,0 +1,19 @@
+INFO 2026-02-25 09:00:01 User login successful for user_id=123
+INFO 2026-02-25 09:01:12 API request completed status=200
+INFO 2026-02-25 09:02:33 Scheduled job executed successfully
+INFO 2026-02-25 09:03:44 Cache refreshed successfully
+INFO 2026-02-25 09:04:55 Database connection established
+
+WARNING 2026-02-25 09:05:01 Memory usage at 75%
+WARNING 2026-02-25 09:06:15 API response time slow (2.5s)
+WARNING 2026-02-25 09:07:30 Database nearing connection limit
+WARNING 2026-02-25 09:08:45 Disk usage at 80%
+WARNING 2026-02-25 09:09:50 Retry attempt for API call
+
+ERROR 2026-02-25 09:10:01 Database timeout error
+ERROR 2026-02-25 09:10:10 Database timeout error
+ERROR 2026-02-25 09:10:20 Authentication failure for user_id=456
+ERROR 2026-02-25 09:10:30 Authentication failure for user_id=789
+ERROR 2026-02-25 09:10:40 API rate limit exceeded
+ERROR 2026-02-25 09:10:50 API rate limit exceeded
+ERROR 2026-02-25 09:11:00 Memory usage spike above 95%
