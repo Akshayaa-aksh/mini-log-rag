@@ -116,7 +116,6 @@ This is a minimal implementation and has several limitations:
 
 This project can be extended with:
 
-- LLM-based summarization for deeper analysis
 - Real-time log ingestion (stream processing)
 - REST API integration
 - Alerting system for high-severity issues
